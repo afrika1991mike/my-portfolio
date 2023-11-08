@@ -1,0 +1,7 @@
+This is my devops portifolio
+script -a --timing=week08.timing week08.log
+stop recording: Exit
+
+
+
+
